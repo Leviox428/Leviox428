@@ -5,29 +5,9 @@
 
 I am a software developer with experience in object oriented programming. I build applications that are reliable, maintainable, and efficient. My work includes desktop and web applications, Wordpress, backend systems and tools that solve practical problems. I write clear, reliable code for practical applications.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/marek-dvorský-bba20a295" target="_blank">
-    <img 
-      alt="LinkedIn" 
-      title="Connect on LinkedIn" 
-      src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
-    />
-  </a>
-  <a href="https://pmnhapadgqmn5xru.public.blob.vercel-storage.com/Resume.pdf" target="_blank">
-    <img 
-      alt="Resume" 
-      title="View My Resume" 
-      src="https://custom-icon-badges.demolab.com/badge/-Resume-gray?style=for-the-badge&logo=readme&logoColor=white&labelColor=555555"
-    />
-  </a>
-  <a href="https://marekdvorsky.vercel.app" target="_blank">
-    <img 
-      alt="Portfolio" 
-      title="Visit My Portfolio" 
-      src="https://custom-icon-badges.demolab.com/badge/-Portfolio-blueviolet?style=for-the-badge&logo=web&logoColor=white&labelColor=6A0DAD"
-    />
-  </a>
-</p>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=link&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/marek-dvorský-bba20a295)
+[![Resume](https://custom-icon-badges.demolab.com/badge/-Resume-white?style=for-the-badge&logo=book&logoColor=000000&labelColor=bfbfbf)](https://pmnhapadgqmn5xru.public.blob.vercel-storage.com/Resume.pdf)
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/-Portfolio-black?style=for-the-badge&logo=globe&logoColor=white&labelColor=111111)](https://marekdvorsky.vercel.app)
 
 ---
 
