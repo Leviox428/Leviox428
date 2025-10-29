@@ -16,5 +16,4 @@ I am a software developer with experience in object oriented programming. I buil
 [![My Skills](https://skillicons.dev/icons?i=java,cs,mysql,firebase,flask,express,nodejs,js,ts,css,html,nextjs,react,tailwind,wordpress,git,python)](https://skillicons.dev)
 
 ### 📊 Stats
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leviox428&show_icons=true&locale=en&layout=compact" alt="leviox428" /></p>
